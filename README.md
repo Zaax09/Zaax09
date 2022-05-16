@@ -6,7 +6,7 @@ Full-Stack Developer
 
 Full stack developers take on a broad set of responsibilities. They must be fluent in creating websites with a robust internal architecture and delivering an interactive and intuitive interface to clients. A full stack developer must be well-versed in HTML, CSS, and JavaScript and know their way around back end technologies and database structures.
 
-* 🌍  I'm based in Freelancer
+* 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [Fichtali.com](http://http://www.fichtali.com/)
 * ✉️  You can contact me at [zakaria.fichtali022@gmail.com](mailto:zakaria.fichtali022@gmail.com)
 * 🚀  I'm currently working on [MyApp](http://https://play.google.com/store/apps/details?id=com.fichtaliapppbmw.bmwwallpapers4j)
